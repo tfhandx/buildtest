@@ -1,0 +1,1 @@
+(this["webpackJsonpnew-react"]=this["webpackJsonpnew-react"]||[]).push([[42],{685:function(e,t,n){},719:function(e,t,n){"use strict";n.r(t);var c=n(70),a=n(0),s=n.n(a);n(685);t.default=()=>{const e=Object(a.useState)(""),t=Object(c.a)(e,2);t[0],t[1];return s.a.createElement("div",null,"secret")}}}]);
